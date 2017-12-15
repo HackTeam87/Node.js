@@ -1,0 +1,4 @@
+1.npm i gulp -g
+2.npm init
+3.npm install
+4.gulp-запуск autoprefixer
